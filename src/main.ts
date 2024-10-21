@@ -18,7 +18,6 @@ fetchSceneAndMount_scene_01({
 	domElement: 'app',
 	baseUrl: import.meta.env.BASE_URL,
 }).then(({scene}) => {
-	console.log(scene);
 	const exporterNode = scene.node('/geo1/exporterSTL1');
 	const downloadParam = exporterNode.p.download;
 
