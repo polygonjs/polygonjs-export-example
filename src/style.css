@@ -53,3 +53,20 @@ body,
 	color: white;
 	pointer-events: auto;
 }
+
+.button-container {
+	position: absolute;
+	text-align: center;
+	font-size: 2rem;
+	margin: 1rem 0px;
+	bottom: 1rem;
+	width: 100%;
+	pointer-events: none;
+}
+#download-button {
+	pointer-events: auto;
+	font-size: 2rem;
+	margin-top: 1rem;
+	cursor: pointer;
+	background-color: #118340;
+}

@@ -1,27 +1,28 @@
 {
-	"properties": "1675552563896",
+	"properties": "1729538293539",
 	"root": "1675552563896",
 	"nodes": {
-		"geo1": "1675552563896",
+		"geo1": "1729538293539",
 		"geo1/MAT": "1675552563896",
-		"ground": "1675552563896",
+		"ground": "1729538293539",
 		"ground/MAT": "1675552563896",
-		"ground/MAT/meshStandardBuilder1": "1675552563896",
+		"ground/MAT/meshStandardBuilder1": "1729538293539",
 		"COP": "1675552563896",
-		"lights": "1675552563896",
-		"cameras": "1675552563896",
+		"lights": "1729538293539",
+		"cameras": "1729538293539",
 		"cameras/cameraControls1": "1675552563896"
 	},
 	"shaders": {
 		"/ground/MAT/meshStandardBuilder1": {
-			"vertex": "1675552563896",
-			"fragment": "1675552563896",
-			"customDepthMaterial.vertex": "1675552563896",
-			"customDepthMaterial.fragment": "1675552563896",
-			"customDistanceMaterial.vertex": "1675552563896",
-			"customDistanceMaterial.fragment": "1675552563896",
-			"customDepthDOFMaterial.vertex": "1675552563896",
-			"customDepthDOFMaterial.fragment": "1675552563896"
+			"vertex": "1729538293539",
+			"fragment": "1729538293539",
+			"customDepthMaterial.vertex": "1729538293539",
+			"customDepthMaterial.fragment": "1729538293539",
+			"customDistanceMaterial.vertex": "1729538293539",
+			"customDistanceMaterial.fragment": "1729538293539",
+			"customDepthDOFMaterial.vertex": "1729538293539",
+			"customDepthDOFMaterial.fragment": "1729538293539"
 		}
-	}
+	},
+	"jsFunctionBodies": {}
 }
